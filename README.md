@@ -1,3 +1,1 @@
-# blog
-
-> 文字功能太弱，纯笔记，无排版，无格式
+# Empty is everything
