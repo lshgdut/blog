@@ -7,8 +7,9 @@
 
 根据实际情况，自己选择
 
-- 如果可以连外网，直接用 [npminstall]
-- 如果连不了外网，会麻烦些
+1.  如果可以连外网，直接用 [npminstall]
+2.  如果连不了外网，会麻烦些
+
 	**a. 临时方案**
 	
 	1. 看错误日志，会有下载链接的，比如`http://chromedriver.storage.googleapis.com/2.40/chromedriver_linux64.zip`, 先公网把文件下载下来
